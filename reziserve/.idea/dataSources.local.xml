@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="PingIP" uuid="fb7c72ef-47b4-4f80-8dd6-4743fe1609b3">
+      <secret-storage>master_key</secret-storage>
+      <table-pattern>pingip</table-pattern>
+    </data-source>
+    <data-source name="Django default" uuid="164fd462-9c21-453b-be64-d78da48db1dd" />
+  </component>
+</project>

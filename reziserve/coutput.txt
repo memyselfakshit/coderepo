@@ -1,0 +1,235 @@
+1,172.31.190.82,ccdn-cgw-a4-01.area4.il.chicago.comcast.net,ccdn-cgw-a4-01, ,IL,Chicago,41.7897125,-87.68365,Central,Chicago
+2,172.31.190.66,ccdn-cgw-a4-02.area4.il.chicago.comcast.net,ccdn-cgw-a4-02, ,IL,Chicago,41.7897125,-87.68365,Central,Chicago
+3,172.31.190.83,ccdn-cgw-a4-03.area4.il.chicago.comcast.net,ccdn-cgw-a4-03, ,IL,Chicago,41.7897125,-87.68365,Central,Chicago
+4,172.31.190.67,ccdn-cgw-a4-04.area4.il.chicago.comcast.net,ccdn-cgw-a4-04, ,IL,Chicago,41.7897125,-87.68365,Central,Chicago
+5,172.31.190.84,ccdn-cgw-a4-05.area4.il.chicago.comcast.net,ccdn-cgw-a4-05, ,IL,Chicago,41.7897125,-87.68365,Central,Chicago
+6,172.31.190.68,ccdn-cgw-a4-06.area4.il.chicago.comcast.net,ccdn-cgw-a4-06, ,IL,Chicago,41.7897125,-87.68365,Central,Chicago
+7,172.31.190.85,ccdn-cgw-a4-07.area4.il.chicago.comcast.net,ccdn-cgw-a4-07, ,IL,Chicago,41.7897125,-87.68365,Central,Chicago
+8,172.31.190.69,ccdn-cgw-a4-08.area4.il.chicago.comcast.net,ccdn-cgw-a4-08, ,IL,Chicago,41.7897125,-87.68365,Central,Chicago
+9,172.24.113.70,ccdn-cgw-ab-01.albuquerque.nm.albuq.comcast.net,ccdn-cgw-ab-01, ,NM,Albuquerque,35.1101413,-106.5579597,Western,Mile High
+10,172.24.113.102,ccdn-cgw-ab-02.albuquerque.nm.albuq.comcast.net,ccdn-cgw-ab-02, ,NM,Albuquerque,35.1101413,-106.5579597,Western,Mile High
+11,172.24.113.71,ccdn-cgw-ab-03.albuquerque.nm.albuq.comcast.net,ccdn-cgw-ab-03, ,NM,Albuquerque,35.1101413,-106.5579597,Western,Mile High
+12,172.30.100.130,ccdn-cgw-ag-01.augusta.ga.augusta.comcast.net,ccdn-cgw-ag-01, ,GA,Augusta,33.4734978,-82.0105148,Central,Big South
+13,172.30.100.146,ccdn-cgw-ag-02.augusta.ga.augusta.comcast.net,ccdn-cgw-ag-02, ,GA,Augusta,33.4734978,-82.0105148,Central,Big South
+14,172.30.100.131,ccdn-cgw-ag-03.augusta.ga.augusta.comcast.net,ccdn-cgw-ag-03, ,GA,Augusta,33.4734978,-82.0105148,Central,Big South
+15,172.30.100.147,ccdn-cgw-ag-04.augusta.ga.augusta.comcast.net,ccdn-cgw-ag-04, ,GA,Augusta,33.4734978,-82.0105148,Central,Big South
+16,172.24.114.50,ccdn-cgw-br-01.burien.wa.seattle.comcast.net,ccdn-cgw-br-01, ,WA,Seattle,47.5012781,-122.3364534,Western,Washington
+17,172.24.114.66,ccdn-cgw-br-02.burien.wa.seattle.comcast.net,ccdn-cgw-br-02, ,WA,Seattle,47.5012781,-122.3364534,Western,Washington
+18,172.24.114.51,ccdn-cgw-br-03.burien.wa.seattle.comcast.net,ccdn-cgw-br-03, ,WA,Seattle,47.5012781,-122.3364534,Western,Washington
+19,172.24.114.67,ccdn-cgw-br-04.burien.wa.seattle.comcast.net,ccdn-cgw-br-04, ,WA,Seattle,47.5012781,-122.3364534,Western,Washington
+20,172.24.114.52,ccdn-cgw-br-05.burien.wa.seattle.comcast.net,ccdn-cgw-br-05, ,WA,Seattle,47.5012781,-122.3364534,Western,Washington
+21,172.24.114.68,ccdn-cgw-br-06.burien.wa.seattle.comcast.net,ccdn-cgw-br-06, ,WA,Seattle,47.5012781,-122.3364534,Western,Washington
+22,172.24.114.53,ccdn-cgw-br-07.burien.wa.seattle.comcast.net,ccdn-cgw-br-07, ,WA,Seattle,47.5012781,-122.3364534,Western,Washington
+23,172.21.52.67,ccdn-cgw-bt-01.bristol.ct.hartford.comcast.net,ccdn-cgw-bt-01, ,CT,Berlin,41.621488,-72.7456519,Northeast,W N E R
+24,172.21.97.3,ccdn-cgw-bt-02.bristol.ct.hartford.comcast.net,ccdn-cgw-bt-02, ,CT,Berlin,41.621488,-72.7456519,Northeast,W N E R
+25,172.21.52.68,ccdn-cgw-bt-03.bristol.ct.hartford.comcast.net,ccdn-cgw-bt-03, ,CT,Berlin,41.621488,-72.7456519,Northeast,W N E R
+26,172.21.97.4,ccdn-cgw-bt-04.bristol.ct.hartford.comcast.net,ccdn-cgw-bt-04, ,CT,Berlin,41.621488,-72.7456519,Northeast,W N E R
+27,172.21.52.69,ccdn-cgw-bt-05.bristol.ct.hartford.comcast.net,ccdn-cgw-bt-05, ,CT,Berlin,41.621488,-72.7456519,Northeast,W N E R
+28,172.21.97.5,ccdn-cgw-bt-06.bristol.ct.hartford.comcast.net,ccdn-cgw-bt-06, ,CT,Berlin,41.621488,-72.7456519,Northeast,W N E R
+29,172.21.52.70,ccdn-cgw-bt-07.bristol.ct.hartford.comcast.net,ccdn-cgw-bt-07, ,CT,Berlin,41.621488,-72.7456519,Northeast,W N E R
+30,10.33.75.86,ccdn-cgw-bv-01.beaverton.or.bverton.comcast.net,ccdn-cgw-bv-01, ,OR,Beaverton,45.5320036,-122.8540107,Western,Portland
+31,10.33.75.87,ccdn-cgw-bv-02.beaverton.or.bverton.comcast.net,ccdn-cgw-bv-02, ,OR,Beaverton,45.5320036,-122.8540107,Western,Portland
+32,10.33.75.88,ccdn-cgw-bv-03.beaverton.or.bverton.comcast.net,ccdn-cgw-bv-03, ,OR,Beaverton,45.5320036,-122.8540107,Western,Portland
+33,10.33.75.89,ccdn-cgw-bv-04.beaverton.or.bverton.comcast.net,ccdn-cgw-bv-04, ,OR,Beaverton,45.5320036,-122.8540107,Western,Portland
+34,10.33.75.90,ccdn-cgw-bv-05.beaverton.or.bverton.comcast.net,ccdn-cgw-bv-05, ,OR,Beaverton,45.5320036,-122.8540107,Western,Portland
+35,10.33.75.82,ccdn-cgw-bv-06.beaverton.or.bverton.comcast.net,ccdn-cgw-bv-06, ,OR,Beaverton,45.5320036,-122.8540107,Western,Portland
+36,76.96.124.210,ccdn-cgw-ch-01.capitolhghts.md.bad.comcast.net,ccdn-cgw-ch-01, ,MD,CapitolHeights,38.874626,-76.85794,Northeast,Beltway
+37,76.96.124.114,ccdn-cgw-ch-02.capitolhghts.md.bad.comcast.net,ccdn-cgw-ch-02, ,MD,CapitolHeights,38.874626,-76.85794,Northeast,Beltway
+38,76.96.124.211,ccdn-cgw-ch-03.capitolhghts.md.bad.comcast.net,ccdn-cgw-ch-03, ,MD,CapitolHeights,38.874626,-76.85794,Northeast,Beltway
+39,76.96.124.115,ccdn-cgw-ch-04.capitolhghts.md.bad.comcast.net,ccdn-cgw-ch-04, ,MD,CapitolHeights,38.874626,-76.85794,Northeast,Beltway
+40,76.96.124.212,ccdn-cgw-ch-05.capitolhghts.md.bad.comcast.net,ccdn-cgw-ch-05, ,MD,CapitolHeights,38.874626,-76.85794,Northeast,Beltway
+41,76.96.124.116,ccdn-cgw-ch-06.capitolhghts.md.bad.comcast.net,ccdn-cgw-ch-06, ,MD,CapitolHeights,38.874626,-76.85794,Northeast,Beltway
+42,76.96.124.213,ccdn-cgw-ch-07.capitolhghts.md.bad.comcast.net,ccdn-cgw-ch-07, ,MD,CapitolHeights,38.874626,-76.85794,Northeast,Beltway
+43,172.20.134.66,ccdn-cgw-dv-01.denver.co.denver.comcast.net,ccdn-cgw-dv-01, ,CO,Denver,39.7424516,-105.017775,Western,Mile High
+44,172.20.134.82,ccdn-cgw-dv-02.denver.co.denver.comcast.net,ccdn-cgw-dv-02, ,CO,Denver,39.7424516,-105.017775,Western,Mile High
+45,172.20.134.67,ccdn-cgw-dv-03.denver.co.denver.comcast.net,ccdn-cgw-dv-03, ,CO,Denver,39.7424516,-105.017775,Western,Mile High
+46,172.20.134.83,ccdn-cgw-dv-04.denver.co.denver.comcast.net,ccdn-cgw-dv-04, ,CO,Denver,39.7424516,-105.017775,Western,Mile High
+47,172.20.134.68,ccdn-cgw-dv-05.denver.co.denver.comcast.net,ccdn-cgw-dv-05, ,CO,Denver,39.7424516,-105.017775,Western,Mile High
+48,172.20.134.84,ccdn-cgw-dv-06.denver.co.denver.comcast.net,ccdn-cgw-dv-06, ,CO,Denver,39.7424516,-105.017775,Western,Mile High
+49,172.20.134.69,ccdn-cgw-dv-07.denver.co.denver.comcast.net,ccdn-cgw-dv-07, ,CO,Denver,39.7424516,-105.017775,Western,Mile High
+50,172.31.190.34,ccdn-cgw-eh-01.elmhurst.il.chicago.comcast.net,ccdn-cgw-eh-01, ,IL,Elmhust,41.919893,-87.9460469,Central,Chicago
+51,172.31.190.50,ccdn-cgw-eh-02.elmhurst.il.chicago.comcast.net,ccdn-cgw-eh-02, ,IL,Elmhust,41.919893,-87.9460469,Central,Chicago
+52,172.31.190.35,ccdn-cgw-eh-03.elmhurst.il.chicago.comcast.net,ccdn-cgw-eh-03, ,IL,Elmhust,41.919893,-87.9460469,Central,Chicago
+53,172.31.190.51,ccdn-cgw-eh-04.elmhurst.il.chicago.comcast.net,ccdn-cgw-eh-04, ,IL,Elmhust,41.919893,-87.9460469,Central,Chicago
+54,172.31.190.36,ccdn-cgw-eh-05.elmhurst.il.chicago.comcast.net,ccdn-cgw-eh-05, ,IL,Elmhust,41.919893,-87.9460469,Central,Chicago
+55,172.31.190.52,ccdn-cgw-eh-06.elmhurst.il.chicago.comcast.net,ccdn-cgw-eh-06, ,IL,Elmhust,41.919893,-87.9460469,Central,Chicago
+56,172.31.190.37,ccdn-cgw-eh-07.elmhurst.il.chicago.comcast.net,ccdn-cgw-eh-07, ,IL,Elmhust,41.919893,-87.9460469,Central,Chicago
+57,172.31.190.53,ccdn-cgw-eh-08.elmhurst.il.chicago.comcast.net,ccdn-cgw-eh-08, ,IL,Elmhust,41.919893,-87.9460469,Central,Chicago
+58,172.31.190.38,ccdn-cgw-eh-09.elmhurst.il.chicago.comcast.net,ccdn-cgw-eh-09, ,IL,Elmhust,41.919893,-87.9460469,Central,Chicago
+59,172.30.146.36,ccdn-cgw-en-01.cmc.co.ndcwest.comcast.net,ccdn-cgw-en-01, ,CO,Centennial,39.5787364,-104.9389569,Western,Mile High
+60,172.21.52.2,ccdn-cgw-hm-01.needham.ma.boston.comcast.net,ccdn-cgw-hm-01, ,MA,Needham,42.306348,-71.2240659,Northeast,G B R
+61,172.21.52.3,ccdn-cgw-hm-02.needham.ma.boston.comcast.net,ccdn-cgw-hm-02, ,MA,Needham,42.306348,-71.2240659,Northeast,G B R
+62,172.21.52.4,ccdn-cgw-hm-03.needham.ma.boston.comcast.net,ccdn-cgw-hm-03, ,MA,Needham,42.306348,-71.2240659,Northeast,G B R
+63,172.21.52.5,ccdn-cgw-hm-04.needham.ma.boston.comcast.net,ccdn-cgw-hm-04, ,MA,Needham,42.306348,-71.2240659,Northeast,G B R
+64,172.21.52.6,ccdn-cgw-hm-05.needham.ma.boston.comcast.net,ccdn-cgw-hm-05, ,MA,Needham,42.306348,-71.2240659,Northeast,G B R
+65,172.21.52.7,ccdn-cgw-hm-06.needham.ma.boston.comcast.net,ccdn-cgw-hm-06, ,MA,Needham,42.306348,-71.2240659,Northeast,G B R
+66,172.21.52.8,ccdn-cgw-hm-07.needham.ma.boston.comcast.net,ccdn-cgw-hm-07, ,MA,Needham,42.306348,-71.2240659,Northeast,G B R
+67,172.21.52.9,ccdn-cgw-hm-08.needham.ma.boston.comcast.net,ccdn-cgw-hm-08, ,MA,Needham,42.306348,-71.2240659,Northeast,G B R
+68,172.20.54.132,ccdn-cgw-hs-05.bearcreek.tx.houston.comcast.net,ccdn-cgw-hs-05, ,TX,Houston,29.8506032,-95.6871941,Western,Houston
+69,172.20.54.148,ccdn-cgw-hs-06.bearcreek.tx.houston.comcast.net,ccdn-cgw-hs-06, ,TX,Houston,29.8506032,-95.6871941,Western,Houston
+70,172.20.54.133,ccdn-cgw-hs-07.bearcreek.tx.houston.comcast.net,ccdn-cgw-hs-07, ,TX,Houston,29.8506032,-95.6871941,Western,Houston
+71,172.20.54.149,ccdn-cgw-hs-08.bearcreek.tx.houston.comcast.net,ccdn-cgw-hs-08, ,TX,Houston,29.8506032,-95.6871941,Western,Houston
+72,172.20.60.130,ccdn-cgw-hu-01.huntsville.al.hunts.comcast.net,ccdn-cgw-hu-01, ,AL,Huntsville,34.7576623,-86.5958236,Central,Big South
+73,172.20.60.146,ccdn-cgw-hu-02.huntsville.al.hunts.comcast.net,ccdn-cgw-hu-02, ,AL,Huntsville,34.7576623,-86.5958236,Central,Big South
+74,172.20.60.131,ccdn-cgw-hu-03.huntsville.al.hunts.comcast.net,ccdn-cgw-hu-03, ,AL,Huntsville,34.7576623,-86.5958236,Central,Big South
+75,172.20.60.147,ccdn-cgw-hu-04.huntsville.al.hunts.comcast.net,ccdn-cgw-hu-04, ,AL,Huntsville,34.7576623,-86.5958236,Central,Big South
+76,172.20.160.98,ccdn-cgw-id-01.independence.mo.indepen.comcast.net,ccdn-cgw-id-01, ,MO,Independence,39.0330407,-94.3500546,Western,Twin Cities
+77,172.20.160.106,ccdn-cgw-id-02.independence.mo.indepen.comcast.net,ccdn-cgw-id-02, ,MO,Independence,39.0330407,-94.3500546,Western,Twin Cities
+78,172.20.160.99,ccdn-cgw-id-03.independence.mo.indepen.comcast.net,ccdn-cgw-id-03, ,MO,Independence,39.0330407,-94.3500546,Western,Twin Cities
+79,172.20.160.107,ccdn-cgw-id-04.independence.mo.indepen.comcast.net,ccdn-cgw-id-04, ,MO,Independence,39.0330407,-94.3500546,Western,Twin Cities
+80,172.31.233.5,ccdn-cgw-in-01.indianapolis.in.indiana.comcast.net,ccdn-cgw-in-01, ,IN,Indianapolis,39.877846,-86.0786849,Central,Heartland
+81,172.31.233.6,ccdn-cgw-in-02.indianapolis.in.indiana.comcast.net,ccdn-cgw-in-02, ,IN,Indianapolis,39.877846,-86.0786849,Central,Heartland
+82,172.31.233.7,ccdn-cgw-in-03.indianapolis.in.indiana.comcast.net,ccdn-cgw-in-03, ,IN,Indianapolis,39.877846,-86.0786849,Central,Heartland
+83,172.31.233.8,ccdn-cgw-in-04.indianapolis.in.indiana.comcast.net,ccdn-cgw-in-04, ,IN,Indianapolis,39.877846,-86.0786849,Central,Heartland
+84,172.31.233.9,ccdn-cgw-in-05.indianapolis.in.indiana.comcast.net,ccdn-cgw-in-05, ,IN,Indianapolis,39.877846,-86.0786849,Central,Heartland
+85,172.20.164.186,ccdn-cgw-ja-05.southside.fl.jacksvil.comcast.net,ccdn-cgw-ja-05, ,FL,Jacksonville,30.2630529,-81.6119333,Central,Florida
+86,172.20.164.194,ccdn-cgw-ja-06.southside.fl.jacksvil.comcast.net,ccdn-cgw-ja-06, ,FL,Jacksonville,30.2630529,-81.6119333,Central,Florida
+87,172.20.164.187,ccdn-cgw-ja-07.southside.fl.jacksvil.comcast.net,ccdn-cgw-ja-07, ,FL,Jacksonville,30.2630529,-81.6119333,Central,Florida
+88,172.20.63.146,ccdn-cgw-jk-01.jacksonnorth.ms.malt.comcast.net,ccdn-cgw-jk-01, ,MS,Jackson,32.387874,-90.1480509,Central,Big South
+89,172.20.63.162,ccdn-cgw-jk-02.jacksonnorth.ms.malt.comcast.net,ccdn-cgw-jk-02, ,MS,Jackson,32.387874,-90.1480509,Central,Big South
+90,172.20.63.147,ccdn-cgw-jk-03.jacksonnorth.ms.malt.comcast.net,ccdn-cgw-jk-03, ,MS,Jackson,32.387874,-90.1480509,Central,Big South
+91,172.20.63.163,ccdn-cgw-jk-04.jacksonnorth.ms.malt.comcast.net,ccdn-cgw-jk-04, ,MS,Jackson,32.387874,-90.1480509,Central,Big South
+92,172.20.163.130,ccdn-cgw-kx-01.bluelight.tn.knox.comcast.net,ccdn-cgw-kx-01, ,TN,Knoxville,36.01054,-83.837872,Central,Big South
+93,172.20.163.146,ccdn-cgw-kx-02.bluelight.tn.knox.comcast.net,ccdn-cgw-kx-02, ,TN,Knoxville,36.01054,-83.837872,Central,Big South
+94,172.20.163.131,ccdn-cgw-kx-03.bluelight.tn.knox.comcast.net,ccdn-cgw-kx-03, ,TN,Knoxville,36.01054,-83.837872,Central,Big South
+95,172.20.163.147,ccdn-cgw-kx-04.bluelight.tn.knox.comcast.net,ccdn-cgw-kx-04, ,TN,Knoxville,36.01054,-83.837872,Central,Big South
+96,10.34.96.194,ccdn-cgw-lc-01.lancaster.pa.pitt.comcast.net,ccdn-cgw-lc-01, ,PA,Lancaster,40.027311,-76.288522,Northeast,Keystone East
+97,10.34.96.195,ccdn-cgw-lc-02.lancaster.pa.pitt.comcast.net,ccdn-cgw-lc-02, ,PA,Lancaster,40.027311,-76.288522,Northeast,Keystone East
+98,10.34.96.196,ccdn-cgw-lc-03.lancaster.pa.pitt.comcast.net,ccdn-cgw-lc-03, ,PA,Lancaster,40.027311,-76.288522,Northeast,Keystone East
+99,10.34.96.197,ccdn-cgw-lc-04.lancaster.pa.pitt.comcast.net,ccdn-cgw-lc-04, ,PA,Lancaster,40.027311,-76.288522,Northeast,Keystone East
+100,10.34.96.198,ccdn-cgw-lc-05.lancaster.pa.pitt.comcast.net,ccdn-cgw-lc-05, ,PA,Lancaster,40.027311,-76.288522,Northeast,Keystone East
+101,10.34.96.199,ccdn-cgw-lc-06.lancaster.pa.pitt.comcast.net,ccdn-cgw-lc-06, ,PA,Lancaster,40.027311,-76.288522,Northeast,Keystone East
+102,172.20.161.130,ccdn-cgw-lr-01.littlerock.ar.lrock.comcast.net,ccdn-cgw-lr-01, ,AR,LittleRock,34.728158,-92.3950598,Central,Big South
+103,172.20.161.146,ccdn-cgw-lr-02.littlerock.ar.lrock.comcast.net,ccdn-cgw-lr-02, ,AR,LittleRock,34.728158,-92.3950598,Central,Big South
+104,172.20.161.131,ccdn-cgw-lr-03.littlerock.ar.lrock.comcast.net,ccdn-cgw-lr-03, ,AR,LittleRock,34.728158,-92.3950598,Central,Big South
+105,172.20.161.147,ccdn-cgw-lr-04.littlerock.ar.lrock.comcast.net,ccdn-cgw-lr-04, ,AR,LittleRock,34.728158,-92.3950598,Central,Big South
+106,172.20.52.194,ccdn-cgw-mp-01.winchester.tn.malt.comcast.net,ccdn-cgw-mp-01, ,TN,Memphis,35.078376,-89.878815,Central,Big South
+107,172.20.52.210,ccdn-cgw-mp-02.winchester.tn.malt.comcast.net,ccdn-cgw-mp-02, ,TN,Memphis,35.078376,-89.878815,Central,Big South
+108,172.20.52.195,ccdn-cgw-mp-03.winchester.tn.malt.comcast.net,ccdn-cgw-mp-03, ,TN,Memphis,35.078376,-89.878815,Central,Big South
+109,172.20.52.211,ccdn-cgw-mp-04.winchester.tn.malt.comcast.net,ccdn-cgw-mp-04, ,TN,Memphis,35.078376,-89.878815,Central,Big South
+110,172.20.52.196,ccdn-cgw-mp-05.winchester.tn.malt.comcast.net,ccdn-cgw-mp-05, ,TN,Memphis,35.078376,-89.878815,Central,Big South
+111,10.22.5.34,ccdn-cgw-mt-01.saltlakecity.ut.utah.comcast.net,ccdn-cgw-mt-01, ,UT,SaltLakeCity,40.72364,-111.855161,Western,Mountain
+112,10.22.5.50,ccdn-cgw-mt-02.saltlakecity.ut.utah.comcast.net,ccdn-cgw-mt-02, ,UT,SaltLakeCity,40.72364,-111.855161,Western,Mountain
+113,10.22.5.35,ccdn-cgw-mt-03.saltlakecity.ut.utah.comcast.net,ccdn-cgw-mt-03, ,UT,SaltLakeCity,40.72364,-111.855161,Western,Mountain
+114,172.30.99.226,ccdn-cgw-nc-01.newcastle.de.panjde.comcast.net,ccdn-cgw-nc-01, ,DE,NewCastle,39.703368,-75.571745,Northeast,Freedom
+115,172.30.99.227,ccdn-cgw-nc-02.newcastle.de.panjde.comcast.net,ccdn-cgw-nc-02, ,DE,NewCastle,39.703368,-75.571745,Northeast,Freedom
+116,172.30.99.228,ccdn-cgw-nc-03.newcastle.de.panjde.comcast.net,ccdn-cgw-nc-03, ,DE,NewCastle,39.703368,-75.571745,Northeast,Freedom
+117,172.30.99.229,ccdn-cgw-nc-04.newcastle.de.panjde.comcast.net,ccdn-cgw-nc-04, ,DE,NewCastle,39.703368,-75.571745,Northeast,Freedom
+118,172.30.99.230,ccdn-cgw-nc-05.newcastle.de.panjde.comcast.net,ccdn-cgw-nc-05, ,DE,NewCastle,39.703368,-75.571745,Northeast,Freedom
+119,172.30.99.231,ccdn-cgw-nc-06.newcastle.de.panjde.comcast.net,ccdn-cgw-nc-06, ,DE,NewCastle,39.703368,-75.571745,Northeast,Freedom
+120,172.30.99.232,ccdn-cgw-nc-07.newcastle.de.panjde.comcast.net,ccdn-cgw-nc-07, ,DE,NewCastle,39.703368,-75.571745,Northeast,Freedom
+121,172.30.99.233,ccdn-cgw-nc-08.newcastle.de.panjde.comcast.net,ccdn-cgw-nc-08, ,DE,NewCastle,39.703368,-75.571745,Northeast,Freedom
+122,172.30.99.234,ccdn-cgw-nc-09.newcastle.de.panjde.comcast.net,ccdn-cgw-nc-09, ,DE,NewCastle,39.703368,-75.571745,Northeast,Freedom
+123,172.30.99.235,ccdn-cgw-nc-10.newcastle.de.panjde.comcast.net,ccdn-cgw-nc-10, ,DE,NewCastle,39.703368,-75.571745,Northeast,Freedom
+124,172.30.99.236,ccdn-cgw-nc-11.newcastle.de.panjde.comcast.net,ccdn-cgw-nc-11, ,DE,NewCastle,39.703368,-75.571745,Northeast,Freedom
+125,172.30.99.237,ccdn-cgw-nc-12.newcastle.de.panjde.comcast.net,ccdn-cgw-nc-12, ,DE,NewCastle,39.703368,-75.571745,Northeast,Freedom
+126,172.20.165.130,ccdn-cgw-np-01.bonitasprngs.fl.naples.comcast.net,ccdn-cgw-np-01, ,FL,BonitaSprings,26.3548024,-81.7387435,Central,Florida
+127,172.20.165.146,ccdn-cgw-np-02.bonitasprngs.fl.naples.comcast.net,ccdn-cgw-np-02, ,FL,BonitaSprings,26.3548024,-81.7387435,Central,Florida
+128,172.20.165.131,ccdn-cgw-np-03.bonitasprngs.fl.naples.comcast.net,ccdn-cgw-np-03, ,FL,BonitaSprings,26.3548024,-81.7387435,Central,Florida
+129,172.20.165.147,ccdn-cgw-np-04.bonitasprngs.fl.naples.comcast.net,ccdn-cgw-np-04, ,FL,BonitaSprings,26.3548024,-81.7387435,Central,Florida
+130,172.24.159.130,ccdn-cgw-ns-01.nashville.tn.nash.comcast.net,ccdn-cgw-ns-01, ,TN,Nashville,36.1965082,-86.8170743,Central,Big South
+131,172.24.159.146,ccdn-cgw-ns-02.nashville.tn.nash.comcast.net,ccdn-cgw-ns-02, ,TN,Nashville,36.1965082,-86.8170743,Central,Big South
+132,172.24.159.131,ccdn-cgw-ns-03.nashville.tn.nash.comcast.net,ccdn-cgw-ns-03, ,TN,Nashville,36.1965082,-86.8170743,Central,Big South
+133,172.24.159.147,ccdn-cgw-ns-04.nashville.tn.nash.comcast.net,ccdn-cgw-ns-04, ,TN,Nashville,36.1965082,-86.8170743,Central,Big South
+134,172.24.159.132,ccdn-cgw-ns-05.nashville.tn.nash.comcast.net,ccdn-cgw-ns-05, ,TN,Nashville,36.1965082,-86.8170743,Central,Big South
+135,172.30.4.34,ccdn-cgw-pf-01.plainfield.nj.panjde.comcast.net,ccdn-cgw-pf-01, ,NJ,Plainfield,40.6002165,-74.4563946,Northeast,Freedom
+136,172.30.4.50,ccdn-cgw-pf-02.plainfield.nj.panjde.comcast.net,ccdn-cgw-pf-02, ,NJ,Plainfield,40.6002165,-74.4563946,Northeast,Freedom
+137,172.30.4.35,ccdn-cgw-pf-03.plainfield.nj.panjde.comcast.net,ccdn-cgw-pf-03, ,NJ,Plainfield,40.6002165,-74.4563946,Northeast,Freedom
+138,172.30.4.51,ccdn-cgw-pf-04.plainfield.nj.panjde.comcast.net,ccdn-cgw-pf-04, ,NJ,Plainfield,40.6002165,-74.4563946,Northeast,Freedom
+139,172.30.4.36,ccdn-cgw-pf-05.plainfield.nj.panjde.comcast.net,ccdn-cgw-pf-05, ,NJ,Plainfield,40.6002165,-74.4563946,Northeast,Freedom
+140,172.30.4.52,ccdn-cgw-pf-06.plainfield.nj.panjde.comcast.net,ccdn-cgw-pf-06, ,NJ,Plainfield,40.6002165,-74.4563946,Northeast,Freedom
+141,172.30.4.37,ccdn-cgw-pf-07.plainfield.nj.panjde.comcast.net,ccdn-cgw-pf-07, ,NJ,Plainfield,40.6002165,-74.4563946,Northeast,Freedom
+142,172.30.4.53,ccdn-cgw-pf-08.plainfield.nj.panjde.comcast.net,ccdn-cgw-pf-08, ,NJ,Plainfield,40.6002165,-74.4563946,Northeast,Freedom
+143,172.30.4.38,ccdn-cgw-pf-09.plainfield.nj.panjde.comcast.net,ccdn-cgw-pf-09, ,NJ,Plainfield,40.6002165,-74.4563946,Northeast,Freedom
+144,172.30.4.54,ccdn-cgw-pf-10.plainfield.nj.panjde.comcast.net,ccdn-cgw-pf-10, ,NJ,Plainfield,40.6002165,-74.4563946,Northeast,Freedom
+145,172.30.4.39,ccdn-cgw-pf-11.plainfield.nj.panjde.comcast.net,ccdn-cgw-pf-11, ,NJ,Plainfield,40.6002165,-74.4563946,Northeast,Freedom
+146,172.30.4.55,ccdn-cgw-pf-12.plainfield.nj.panjde.comcast.net,ccdn-cgw-pf-12, ,NJ,Plainfield,40.6002165,-74.4563946,Northeast,Freedom
+147,10.22.4.18,ccdn-cgw-pm-01.pimaco.az.pima.comcast.net,ccdn-cgw-pm-01, ,AZ,Tucson,32.3567729,-111.093494,Western,Mountain
+148,10.22.4.34,ccdn-cgw-pm-02.pimaco.az.pima.comcast.net,ccdn-cgw-pm-02, ,AZ,Tucson,32.3567729,-111.093494,Western,Mountain
+149,10.22.4.19,ccdn-cgw-pm-03.pimaco.az.pima.comcast.net,ccdn-cgw-pm-03, ,AZ,Tucson,32.3567729,-111.093494,Western,Mountain
+150,172.20.162.130,ccdn-cgw-po-01.pompanobeach.fl.pompano.comcast.net,ccdn-cgw-po-01, ,FL,PompanoBeach,26.2500642,-80.1239073,Central,Florida
+151,172.20.162.146,ccdn-cgw-po-02.pompanobeach.fl.pompano.comcast.net,ccdn-cgw-po-02, ,FL,PompanoBeach,26.2500642,-80.1239073,Central,Florida
+152,172.20.162.131,ccdn-cgw-po-03.pompanobeach.fl.pompano.comcast.net,ccdn-cgw-po-03, ,FL,PompanoBeach,26.2500642,-80.1239073,Central,Florida
+153,172.20.162.147,ccdn-cgw-po-04.pompanobeach.fl.pompano.comcast.net,ccdn-cgw-po-04, ,FL,PompanoBeach,26.2500642,-80.1239073,Central,Florida
+154,172.20.162.132,ccdn-cgw-po-05.pompanobeach.fl.pompano.comcast.net,ccdn-cgw-po-05, ,FL,PompanoBeach,26.2500642,-80.1239073,Central,Florida
+155,172.20.162.148,ccdn-cgw-po-06.pompanobeach.fl.pompano.comcast.net,ccdn-cgw-po-06, ,FL,PompanoBeach,26.2500642,-80.1239073,Central,Florida
+156,172.20.162.133,ccdn-cgw-po-07.pompanobeach.fl.pompano.comcast.net,ccdn-cgw-po-07, ,FL,PompanoBeach,26.2500642,-80.1239073,Central,Florida
+157,10.34.64.130,ccdn-cgw-pt-01.pittsburgh.pa.pitt.comcast.net,ccdn-cgw-pt-01, ,PA,Pittsburgh,40.4512089,-80.0461829,Northeast,Keystone West
+158,10.34.64.132,ccdn-cgw-pt-02.pittsburgh.pa.pitt.comcast.net,ccdn-cgw-pt-02, ,PA,Pittsburgh,40.4512089,-80.0461829,Northeast,Keystone West
+159,10.34.64.131,ccdn-cgw-pt-03.pittsburgh.pa.pitt.comcast.net,ccdn-cgw-pt-03, ,PA,Pittsburgh,40.4512089,-80.0461829,Northeast,Keystone West
+160,10.34.64.133,ccdn-cgw-pt-04.pittsburgh.pa.pitt.comcast.net,ccdn-cgw-pt-04, ,PA,Pittsburgh,40.4512089,-80.0461829,Northeast,Keystone West
+161,10.34.64.134,ccdn-cgw-pt-05.pittsburgh.pa.pitt.comcast.net,ccdn-cgw-pt-05, ,PA,Pittsburgh,40.4512089,-80.0461829,Northeast,Keystone West
+162,10.34.64.135,ccdn-cgw-pt-06.pittsburgh.pa.pitt.comcast.net,ccdn-cgw-pt-06, ,PA,Pittsburgh,40.4512089,-80.0461829,Northeast,Keystone West
+163,10.38.5.66,ccdn-cgw-ro-01.sacramento.ca.ccal.comcast.net,ccdn-cgw-ro-01, ,CA,Sacramento,38.692971,-121.345055,Western,California
+164,10.38.5.67,ccdn-cgw-ro-02.sacramento.ca.ccal.comcast.net,ccdn-cgw-ro-02, ,CA,Sacramento,38.692971,-121.345055,Western,California
+165,10.38.5.68,ccdn-cgw-ro-03.sacramento.ca.ccal.comcast.net,ccdn-cgw-ro-03, ,CA,Sacramento,38.692971,-121.345055,Western,California
+166,10.38.5.69,ccdn-cgw-ro-04.sacramento.ca.ccal.comcast.net,ccdn-cgw-ro-04, ,CA,Sacramento,38.692971,-121.345055,Western,California
+167,10.38.5.70,ccdn-cgw-ro-05.sacramento.ca.ccal.comcast.net,ccdn-cgw-ro-05, ,CA,Sacramento,38.692971,-121.345055,Western,California
+168,10.38.5.71,ccdn-cgw-ro-06.sacramento.ca.ccal.comcast.net,ccdn-cgw-ro-06, ,CA,Sacramento,38.692971,-121.345055,Western,California
+169,10.38.5.72,ccdn-cgw-ro-07.sacramento.ca.ccal.comcast.net,ccdn-cgw-ro-07, ,CA,Sacramento,38.692971,-121.345055,Western,California
+170,10.35.234.66,ccdn-cgw-rp-01.rohnertpr.ca.sfba.comcast.net,ccdn-cgw-rp-01, ,CA,RohnertPark,38.353674,-122.726158,Western,California
+171,10.35.234.67,ccdn-cgw-rp-02.rohnertpr.ca.sfba.comcast.net,ccdn-cgw-rp-02, ,CA,RohnertPark,38.353674,-122.726158,Western,California
+172,10.35.234.68,ccdn-cgw-rp-03.rohnertpr.ca.sfba.comcast.net,ccdn-cgw-rp-03, ,CA,RohnertPark,38.353674,-122.726158,Western,California
+173,10.35.234.69,ccdn-cgw-rp-04.rohnertpr.ca.sfba.comcast.net,ccdn-cgw-rp-04, ,CA,RohnertPark,38.353674,-122.726158,Western,California
+174,10.35.234.70,ccdn-cgw-rp-05.rohnertpr.ca.sfba.comcast.net,ccdn-cgw-rp-05, ,CA,RohnertPark,38.353674,-122.726158,Western,California
+175,10.35.234.71,ccdn-cgw-rp-06.rohnertpr.ca.sfba.comcast.net,ccdn-cgw-rp-06, ,CA,RohnertPark,38.353674,-122.726158,Western,California
+176,172.20.133.98,ccdn-cgw-rs-01.roseville.mn.minn.comcast.net,ccdn-cgw-rs-01, ,MN,Roseville,45.0060767,-93.1566107,Western,Twin Cities
+177,172.20.133.106,ccdn-cgw-rs-02.roseville.mn.minn.comcast.net,ccdn-cgw-rs-02, ,MN,Roseville,45.0060767,-93.1566107,Western,Twin Cities
+178,172.20.133.99,ccdn-cgw-rs-03.roseville.mn.minn.comcast.net,ccdn-cgw-rs-03, ,MN,Roseville,45.0060767,-93.1566107,Western,Twin Cities
+179,172.20.133.107,ccdn-cgw-rs-04.roseville.mn.minn.comcast.net,ccdn-cgw-rs-04, ,MN,Roseville,45.0060767,-93.1566107,Western,Twin Cities
+180,172.20.133.100,ccdn-cgw-rs-05.roseville.mn.minn.comcast.net,ccdn-cgw-rs-05, ,MN,Roseville,45.0060767,-93.1566107,Western,Twin Cities
+181,172.20.133.108,ccdn-cgw-rs-06.roseville.mn.minn.comcast.net,ccdn-cgw-rs-06, ,MN,Roseville,45.0060767,-93.1566107,Western,Twin Cities
+182,172.24.114.18,ccdn-cgw-rv-01.seattle.wa.seattle.comcast.net,ccdn-cgw-rv-01, ,WA,Seattle,47.6932377,-122.3175855,Western,Washington
+183,172.24.114.34,ccdn-cgw-rv-02.seattle.wa.seattle.comcast.net,ccdn-cgw-rv-02, ,WA,Seattle,47.6932377,-122.3175855,Western,Washington
+184,172.24.114.19,ccdn-cgw-rv-03.seattle.wa.seattle.comcast.net,ccdn-cgw-rv-03, ,WA,Seattle,47.6932377,-122.3175855,Western,Washington
+185,172.24.114.35,ccdn-cgw-rv-04.seattle.wa.seattle.comcast.net,ccdn-cgw-rv-04, ,WA,Seattle,47.6932377,-122.3175855,Western,Washington
+186,172.24.114.20,ccdn-cgw-rv-05.seattle.wa.seattle.comcast.net,ccdn-cgw-rv-05, ,WA,Seattle,47.6932377,-122.3175855,Western,Washington
+187,10.35.248.3,ccdn-cgw-sj-01.sanjose.ca.sfba.comcast.net,ccdn-cgw-sj-01, ,CA,SanJose,37.312279,-121.8576076,Western,California
+188,10.35.248.4,ccdn-cgw-sj-02.sanjose.ca.sfba.comcast.net,ccdn-cgw-sj-02, ,CA,SanJose,37.312279,-121.8576076,Western,California
+189,10.35.248.6,ccdn-cgw-sj-04.sanjose.ca.sfba.comcast.net,ccdn-cgw-sj-04, ,CA,SanJose,37.312279,-121.8576076,Western,California
+190,10.35.248.7,ccdn-cgw-sj-05.sanjose.ca.sfba.comcast.net,ccdn-cgw-sj-05, ,CA,SanJose,37.312279,-121.8576076,Western,California
+191,10.35.248.8,ccdn-cgw-sj-06.sanjose.ca.sfba.comcast.net,ccdn-cgw-sj-06, ,CA,SanJose,37.312279,-121.8576076,Western,California
+192,10.35.248.9,ccdn-cgw-sj-07.sanjose.ca.sfba.comcast.net,ccdn-cgw-sj-07, ,CA,SanJose,37.312279,-121.8576076,Western,California
+193,172.30.21.194,ccdn-cgw-sm-01.staplesmllrd.va.richmond.comcast.net,ccdn-cgw-sm-01, ,VA,Richmond,37.6017757,-77.490039,Northeast,Beltway
+194,172.30.21.210,ccdn-cgw-sm-02.staplesmllrd.va.richmond.comcast.net,ccdn-cgw-sm-02, ,VA,Richmond,37.6017757,-77.490039,Northeast,Beltway
+195,172.30.21.195,ccdn-cgw-sm-03.staplesmllrd.va.richmond.comcast.net,ccdn-cgw-sm-03, ,VA,Richmond,37.6017757,-77.490039,Northeast,Beltway
+196,172.30.21.211,ccdn-cgw-sm-04.staplesmllrd.va.richmond.comcast.net,ccdn-cgw-sm-04, ,VA,Richmond,37.6017757,-77.490039,Northeast,Beltway
+197,172.30.21.196,ccdn-cgw-sm-05.staplesmllrd.va.richmond.comcast.net,ccdn-cgw-sm-05, ,VA,Richmond,37.6017757,-77.490039,Northeast,Beltway
+198,172.30.21.212,ccdn-cgw-sm-06.staplesmllrd.va.richmond.comcast.net,ccdn-cgw-sm-06, ,VA,Richmond,37.6017757,-77.490039,Northeast,Beltway
+199,172.20.50.130,ccdn-cgw-sv-01.savannah.ga.savannah.comcast.net,ccdn-cgw-sv-01, ,GA,Savannah,32.0639139,-81.165414,Central,Big South
+200,172.20.50.146,ccdn-cgw-sv-02.savannah.ga.savannah.comcast.net,ccdn-cgw-sv-02, ,GA,Savannah,32.0639139,-81.165414,Central,Big South
+201,172.20.50.131,ccdn-cgw-sv-03.savannah.ga.savannah.comcast.net,ccdn-cgw-sv-03, ,GA,Savannah,32.0639139,-81.165414,Central,Big South
+202,172.20.50.147,ccdn-cgw-sv-04.savannah.ga.savannah.comcast.net,ccdn-cgw-sv-04, ,GA,Savannah,32.0639139,-81.165414,Central,Big South
+203,172.20.51.130,ccdn-cgw-tl-01.mckeithen.fl.tallah.comcast.net,ccdn-cgw-tl-01, ,FL,Tallahassee,30.4694502,-84.3571953,Central,Florida
+204,172.20.51.146,ccdn-cgw-tl-02.mckeithen.fl.tallah.comcast.net,ccdn-cgw-tl-02, ,FL,Tallahassee,30.4694502,-84.3571953,Central,Florida
+205,172.20.51.131,ccdn-cgw-tl-03.mckeithen.fl.tallah.comcast.net,ccdn-cgw-tl-03, ,FL,Tallahassee,30.4694502,-84.3571953,Central,Florida
+206,172.20.51.147,ccdn-cgw-tl-04.mckeithen.fl.tallah.comcast.net,ccdn-cgw-tl-04, ,FL,Tallahassee,30.4694502,-84.3571953,Central,Florida
+207,172.24.115.130,ccdn-cgw-vn-01.b0atlanta.ga.atlanta.comcast.net,ccdn-cgw-vn-01, ,GA,Atlanta,33.848292,-84.482516,Central,Big South
+208,172.24.115.146,ccdn-cgw-vn-02.b0atlanta.ga.atlanta.comcast.net,ccdn-cgw-vn-02, ,GA,Atlanta,33.848292,-84.482516,Central,Big South
+209,172.24.115.131,ccdn-cgw-vn-03.b0atlanta.ga.atlanta.comcast.net,ccdn-cgw-vn-03, ,GA,Atlanta,33.848292,-84.482516,Central,Big South
+210,172.24.115.147,ccdn-cgw-vn-04.b0atlanta.ga.atlanta.comcast.net,ccdn-cgw-vn-04, ,GA,Atlanta,33.848292,-84.482516,Central,Big South
+211,172.24.115.132,ccdn-cgw-vn-05.b0atlanta.ga.atlanta.comcast.net,ccdn-cgw-vn-05, ,GA,Atlanta,33.848292,-84.482516,Central,Big South
+212,172.24.115.148,ccdn-cgw-vn-06.b0atlanta.ga.atlanta.comcast.net,ccdn-cgw-vn-06, ,GA,Atlanta,33.848292,-84.482516,Central,Big South
+213,10.33.103.10,ccdn-cgw-wl-06.westland.mi.michigan.comcast.net,ccdn-cgw-wl-06, ,MI,Westland,42.3297306,-83.4163132,Central,Heartland
+214,10.33.103.11,ccdn-cgw-wl-07.westland.mi.michigan.comcast.net,ccdn-cgw-wl-07, ,MI,Westland,42.3297306,-83.4163132,Central,Heartland
+215,10.33.103.12,ccdn-cgw-wl-08.westland.mi.michigan.comcast.net,ccdn-cgw-wl-08, ,MI,Westland,42.3297306,-83.4163132,Central,Heartland
+216,10.33.103.13,ccdn-cgw-wl-09.westland.mi.michigan.comcast.net,ccdn-cgw-wl-09, ,MI,Westland,42.3297306,-83.4163132,Central,Heartland
+217,76.96.125.162,ccdn-cgw-wm-01.whitemarsh.md.bad.comcast.net,ccdn-cgw-wm-01, ,MD,Nottingham,39.368633,-76.4673292,Northeast,Beltway
+218,76.96.125.178,ccdn-cgw-wm-02.whitemarsh.md.bad.comcast.net,ccdn-cgw-wm-02, ,MD,Nottingham,39.368633,-76.4673292,Northeast,Beltway
+219,76.96.125.163,ccdn-cgw-wm-03.whitemarsh.md.bad.comcast.net,ccdn-cgw-wm-03, ,MD,Nottingham,39.368633,-76.4673292,Northeast,Beltway
+220,76.96.125.179,ccdn-cgw-wm-04.whitemarsh.md.bad.comcast.net,ccdn-cgw-wm-04, ,MD,Nottingham,39.368633,-76.4673292,Northeast,Beltway
+221,76.96.125.164,ccdn-cgw-wm-05.whitemarsh.md.bad.comcast.net,ccdn-cgw-wm-05, ,MD,Nottingham,39.368633,-76.4673292,Northeast,Beltway
+222,10.32.48.18,ccdn-cgw-wn-01.warren1.mi.michigan.comcast.net,ccdn-cgw-wn-01, ,MI,SterlingHeights,42.571058,-83.045647,Central,Heartland
+223,10.32.48.19,ccdn-cgw-wn-02.warren1.mi.michigan.comcast.net,ccdn-cgw-wn-02, ,MI,SterlingHeights,42.571058,-83.045647,Central,Heartland
+224,10.32.48.20,ccdn-cgw-wn-03.warren1.mi.michigan.comcast.net,ccdn-cgw-wn-03, ,MI,SterlingHeights,42.571058,-83.045647,Central,Heartland
+225,10.32.48.21,ccdn-cgw-wn-04.warren1.mi.michigan.comcast.net,ccdn-cgw-wn-04, ,MI,SterlingHeights,42.571058,-83.045647,Central,Heartland
+226,10.32.48.22,ccdn-cgw-wn-05.warren1.mi.michigan.comcast.net,ccdn-cgw-wn-05, ,MI,SterlingHeights,42.571058,-83.045647,Central,Heartland
+227,172.21.52.34,ccdn-cgw-wo-01.woburn.ma.boston.comcast.net,ccdn-cgw-wo-01, ,MA,Woburn,42.4551752,-71.1789823,Northeast,G B R
+228,172.21.52.35,ccdn-cgw-wo-02.woburn.ma.boston.comcast.net,ccdn-cgw-wo-02, ,MA,Woburn,42.4551752,-71.1789823,Northeast,G B R
+229,172.21.52.36,ccdn-cgw-wo-03.woburn.ma.boston.comcast.net,ccdn-cgw-wo-03, ,MA,Woburn,42.4551752,-71.1789823,Northeast,G B R
+230,172.21.52.37,ccdn-cgw-wo-04.woburn.ma.boston.comcast.net,ccdn-cgw-wo-04, ,MA,Woburn,42.4551752,-71.1789823,Northeast,G B R
+231,172.21.52.38,ccdn-cgw-wo-05.woburn.ma.boston.comcast.net,ccdn-cgw-wo-05, ,MA,Woburn,42.4551752,-71.1789823,Northeast,G B R
+232,172.21.52.39,ccdn-cgw-wo-06.woburn.ma.boston.comcast.net,ccdn-cgw-wo-06, ,MA,Woburn,42.4551752,-71.1789823,Northeast,G B R
+233,172.21.52.40,ccdn-cgw-wo-07.woburn.ma.boston.comcast.net,ccdn-cgw-wo-07, ,MA,Woburn,42.4551752,-71.1789823,Northeast,G B R
+234,172.21.52.41,ccdn-cgw-wo-08.woburn.ma.boston.comcast.net,ccdn-cgw-wo-08, ,MA,Woburn,42.4551752,-71.1789823,Northeast,G B R
+235,172.21.52.42,ccdn-cgw-wo-09.woburn.ma.boston.comcast.net,ccdn-cgw-wo-09, ,MA,Woburn,42.4551752,-71.1789823,Northeast,G B R

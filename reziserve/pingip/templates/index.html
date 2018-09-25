@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+		<!--Import Google Icon Font-->
+		<link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+		<!--Import materialize.css-->
+		<link type="text/css" rel="stylesheet" href="../../../static/css/materialize.min.css"  media="screen,projection"/>
+
+		<!--Let browser know website is optimized for mobile-->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+		<style>
+			.marg{
+				margin: 10px;
+
+				font-color: #000000;
+
+			}
+			.radio {
+				color: #000;
+			}
+            #map-canvas {
+                height: 100%;
+                margin: 0px;
+                padding: 0px;
+                width:100%;
+      }
+
+	  </style>
+    </head>
+
+
+
+    <body style="background-color: #eeeeee; margin-left: 5%">
+		<div class=" col s12" style="height: 60px">
+		</div>
+		<div class="col s12">
+		<div class="row">
+
+
+			<div id="availserv" class="col s12 " style="">
+				<div class="row ">
+				<label class="col s12 center"><h4>Available Servers</h4></label>
+				</div>
+
+				<div class="row col s12 ">
+                    {%  for key in rc %}
+
+
+                        {% if key.0 == 0 %}
+
+                        <div class="z-depth-3 col"  style="width:18%;margin: 0.2rem; background-color:#00aa00; height: 6.5em; border-radius:0.5rem" >
+                            <input class="col s1" name="group1"  type="radio" id={{ key.1.IP }} />
+                            <label class="black-text col s11" for="{{ key.1.IP }}"><h6 >IP: {{ key.1.IP }}</h6></label>
+                            <label class="black-text col "><h6>Host: {{ key.1.Hostname }}</h6></label>
+                            <label class="black-text col offset-s2"><h6>Host Reachable</h6></label>
+
+                        </div>
+                        {% else %}
+                         <div class="z-depth-3 col"  style="width:18%;margin: 0.2rem; background-color:#ff0000; height: 6.5em;border-radius:0.5rem" >
+                            <!--<input  class="col s2" name="group1"  type="radio" id={{ key.1.IP }} />-->
+                            <label  class="black-text row center" for="{{ key.1.IP }}"><h6>IP: {{ key.1.IP }}</h6></label>
+                            <label class="black-text row center"><h6>Host: {{ key.1.Hostname }}</h6></label>
+                             <label class="black-text row center"><h6>Host Not Reachable</h6></label>
+                        </div>
+                        {% endif %}
+
+                    {% endfor %}
+
+
+
+			</div>
+
+	  </div>
+	  </div>
+
+
+      <!--Import jQuery before materialize.js-->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script type="text/javascript" src="../../../static/js/materialize.min.js"></script>
+
+
+
+    <script>
+		$(document).ready(function() {
+            if (document.getElementById("citydrop").value !="{{ cvalue }}"){
+
+
+            }
+
+
+		});
+        </script>
+        <script>
+            window.onload=function() {
+            $('#aform').submit(function () {
+
+                return false;
+            });
+            console.log("i");
+
+            for(var i=0; i < document.getElementById("statedrop").options.length;i++){
+
+
+                if (document.getElementById("statedrop").options[i].value.search("{{ svalue }}")>-1){
+                    document.getElementById("statedrop").selectedIndex=i;
+                    console.log(document.getElementById("statedrop").value);
+                    $('select').material_select();
+                }
+
+            }
+
+           var cval = "{{ cvalue }}";
+            if (cval!="") {
+                for (var i = 0; i < document.getElementById("citydrop").options.length; i++) {
+                    if (document.getElementById("citydrop").options[i].value.search("{{ cvalue }}") > -1) {
+                        document.getElementById("citydrop").selectedIndex = i;
+                        console.log(document.getElementById("citydrop").value);
+                        $('select').material_select();
+                    }
+                }
+            }
+            else;
+
+
+        }
+
+	</script>
+    <script>
+
+
+  function displayservers(){
+      if (document.getElementById("citydrop").selectedIndex!=0) {
+          document.getElementById("availserv").style.display = "block";
+          document.getElementById("labeltag").style.display ="block";
+
+      }
+      else{
+          document.getElementById("citydrop").options[0].focus();
+
+      }
+  }
+    </script>
+	</body>
+
+  </html>

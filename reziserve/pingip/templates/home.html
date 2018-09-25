@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <!--Import Google Icon Font-->
+	<link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<!--Import materialize.css-->
+	<link type="text/css" rel="stylesheet" href="../static/css/materialize.min.css"  media="screen,projection"/>
+
+    <title>Regional Streaming Summary</title>
+<style>
+    .smallfont{
+        font-size: 0.7rem;
+        padding:0.2rem 0rem;
+        margin:0px;
+
+        border-radius: 0.5rem;
+
+
+
+
+    }
+</style>
+</head>
+<body style="background-color: #fff">
+
+    <div class="row center"><h4>Regional Streaming Summary</h4></div>
+    <div class="row" style=" margin: 0px;">
+    <div class="row" style="border-bottom: 0px solid #000000; pading:0px;margin:0px">
+    <div class="col s1"style="height: 3.1rem; border-bottom: 1px solid #000000; pading:0px;margin:0px;"></div>
+    <div class=" col s3"  style=" margin: 0px;padding:0px;">
+      <ul class="tabs " style="background-color: #eee; margin: 0px;border-top-left-radius: 1rem;border-top-right-radius: 1rem;">
+        <li id="stab" class="tab col s3 " style="border-right: 2px solid #ccc " ><a class="black-text"  href="#test1">Streamers</a></li>
+        <li id="ttab" class="tab col s3" style="border-right: 2px solid #ccc " ><a class="black-text" href="#test2">Teak</a></li>
+        <li id="ctab" class="tab col s3"><a class="black-text" href="#test4">CGW</a></li>
+      </ul>
+    </div>
+    <div class="col s8" style="height: 3.1rem; border-bottom: 1px solid #000000; pading:0px;margin:0px;"></div>
+    </div>
+    <div class="col s12" style="height: 4rem">
+
+    </div>
+
+    <div id="test1" style="display:none" class="col s12">
+
+        <div class="row" style="margin:0rem 2rem ">
+            {% for key in scount %}
+                <a href="{{ key.1.id }}/s">
+                <button class="btn waves-effect waves-light  col" style="padding:0px;margin:0.1rem;background-color: #ffffff; height: 5.7rem; width:14%" type="submit" name="action">
+                    <div class="row" >
+                        <div class="col s6"  style="padding:0rem 0rem;" ><label class="black-text smallfont" ><h18 > {{ key.1.Name }}</h18></label>
+                        </div>
+                        <div class=" col s6 z-depth-1" style="padding:0.1rem; margin:0px;line-height:180%; background: #ffffff;">
+                            <label class="black-text row smallfont"  ><h7>Servers:{{ key.0 }}</h7></label>
+                            <label class="black-text row light-green z-depth-1 smallfont" ><h7>Streaming:{{ key.2 }}</h7></label>
+                            {% if key.3 > 0 %}
+                            <label class="black-text row red smallfont" ><h7>Degraded:{{ key.3 }}</h7></label>
+                            {% endif %}
+                        </div>
+                    </div>
+				</button>
+                </a>
+
+
+            {% endfor %}
+        </div>
+
+    </div>
+
+    <div id="test2" style="display:none" class="col s12">
+
+        <div class="row" style="margin:0rem 2rem ">
+            {% for key in tcount %}
+                <a href="{{ key.1.id }}/t">
+                <button class="btn waves-effect waves-light  col" style="padding:0px;margin:0.1rem;background-color: #ffffff; height: 5.7rem; width:14%" type="submit" name="action">
+                    <div class="row" >
+                        <div class="col s6"  style="padding:0rem 0rem;" ><label class="black-text smallfont" ><h18 > {{ key.1.Name }}</h18></label>
+                        </div>
+                        <div class=" col s6 z-depth-1" style="padding:0.1rem; margin:0px;line-height:180%; background: #ffffff;">
+                            <label class="black-text row smallfont"  ><h7>Servers:{{ key.0 }}</h7></label>
+                            <label class="black-text row light-green z-depth-1 smallfont" ><h7>Streaming:{{ key.2 }}</h7></label>
+                            {% if key.3 > 0 %}
+                            <label class="black-text row red smallfont" ><h7>Degraded:{{ key.3 }}</h7></label>
+                            {% endif %}
+                        </div>
+                    </div>
+				</button>
+                </a>
+
+
+            {% endfor %}
+        </div>
+
+    </div>
+    <div id="test4" style="display:none" class="col s12">
+
+        <div class="row" style="margin:0rem 2rem ">
+            {% for key in ccount %}
+                <a href="{{ key.1.id }}/c">
+                <button class="btn waves-effect waves-light  col" style="padding:0px;margin:0.1rem;background-color: #ffffff; height: 5.7rem; width:14%" type="submit" name="action">
+                    <div class="row" >
+                        <div class="col s6"  style="padding:0rem 0rem;" ><label class="black-text smallfont" ><h18 > {{ key.1.Name }}</h18></label>
+                        </div>
+                        <div class=" col s6 z-depth-1" style="padding:0.1rem; margin:0px;line-height:180%; background: #ffffff;">
+                            <label class="black-text row smallfont"  ><h7>Servers:{{ key.0 }}</h7></label>
+                            <label class="black-text row light-green z-depth-1 smallfont" ><h7>Streaming:{{ key.2 }}</h7></label>
+                            {% if key.3 > 0 %}
+                            <label class="black-text row red smallfont" ><h7>Degraded:{{ key.3 }}</h7></label>
+                            {% endif %}
+                        </div>
+                    </div>
+				</button>
+                </a>
+
+
+            {% endfor %}
+        </div>
+
+    </div>
+  </div>
+<!--Import jQuery before materialize.js-->
+<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="../static/js/materialize.min.js"></script>
+<script>
+    $(document).ready(function(){
+    $('ul.tabs').tabs();
+
+        {% for key in s_server %}
+            {% for state in statelist %}
+                    var server_state = "{{ key.State }}"
+                    var table_state = "{{ state.Abbr }}"
+                        if (server_state==table_state){
+
+                        }
+
+                {% endfor %}
+        {% endfor %}
+  });
+  $('#stab').click(function(){
+     this.style.backgroundColor = "#aaa";
+     document.getElementById('ttab').style.backgroundColor = "#eee";
+     document.getElementById('ctab').style.backgroundColor = "#eee";
+
+
+  });
+  $('#ttab').click(function(){
+     this.style.backgroundColor = "#aaa";
+
+      document.getElementById('stab').style.backgroundColor = "#eee";
+      document.getElementById('ctab').style.backgroundColor = "#eee";
+
+  });
+  $('#ctab').click(function(){
+     this.style.backgroundColor = "#aaa";
+      document.getElementById('ttab').style.backgroundColor = "#eee";
+      document.getElementById('stab').style.backgroundColor = "#eee";
+
+  });
+</script>
+</body>
+</html>
